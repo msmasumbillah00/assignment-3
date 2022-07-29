@@ -2,6 +2,16 @@ section {
     margin-bottom: 100px;
 }
 
+.social-link {
+    height: 100px;
+    width: 100px;
+}
+
+.social-link i {
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+}
+
 #elipsis {}
 
 @media only screen and (max-width:668px) {
